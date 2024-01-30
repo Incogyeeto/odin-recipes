@@ -1,0 +1,43 @@
+.title {
+  text-align: center;
+  font-size: 80px;
+  background-color: navy;
+  color: gainsboro;
+}
+
+
+#recipe-links {
+  text-align: center;
+  font-size: xx-large;
+  background-color: goldenrod;
+}
+
+.recipe {
+  color: darkslategray;
+}
+
+.image {
+  text-align: center;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+}
+
+.header {
+  text-align: center;
+  font-size:40px;
+  color: rgb(71, 55, 55);
+}
+
+#description {
+  text-align: center;
+  background-color: lemonchiffon;
+}
+
+#description .para {
+  font-size: 25px;
+}
+
+.ingredients {
+  background-color: lemonchiffon;
+}
