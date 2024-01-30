@@ -29,21 +29,21 @@
   color: rgb(71, 55, 55);
 }
 
-#description {
+.description {
   text-align: center;
   background-color: lemonchiffon;
 }
 
-#description .para {
+.description .para {
   font-size: 25px;
 }
 
-#ingredients {
+.ingredients {
   background-color: lemonchiffon;
   text-align: left;
 }
 
-#ingredients .list {
+.ingredients .list {
   font-size: 20px
 }
 
