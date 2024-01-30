@@ -38,6 +38,15 @@
   font-size: 25px;
 }
 
-.ingredients {
+#ingredients {
+  background-color: lemonchiffon;
+  text-align: left;
+}
+
+#ingredients .list {
+  font-size: 20px
+}
+
+#chili-page {
   background-color: lemonchiffon;
 }
